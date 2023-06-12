@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-set SRCFILE=S6313.CAL.TXTd
+set SRCFILE=S6313.CAL.TXTdd
 set OUTPUTFILE=Calendar.ini
 set CALENDAR=CALEXPL
 set CALENDAR2=%~4
